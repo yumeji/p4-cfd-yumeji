@@ -11,11 +11,11 @@ phases:
         - echo installing dependencies...
         - npm install
     build:
-      command:
+      commands:
         - echo building the app...
         - npm run build
-    artifacts:
-      files:
-        - "**/*"
-      discard-paths: no
-      base-directory: build
+artifacts:
+  files:
+    - "**/*"
+    discard-paths: no
+    base-directory: build
