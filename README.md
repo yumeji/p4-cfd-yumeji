@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# cfd-yumeji-p4
-my practice with git and project 4 cloud development
->>>>>>> c3cc839b05cf1a6b50a1897a13eb139dd38c2a7d
